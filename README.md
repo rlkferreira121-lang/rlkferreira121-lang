@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me chamo Gustavo tenho 17 anos,estudante da escola do futuro paulo renato souza, estou cursando o terceiro ano do ensino medio, sou também atleta de jiu-jitsu e capoeira,  estudo linguagens de progamação, já fiz projetos, como por exemplo, TCC, Midia indoor entre outros demais sites, hoje estudo desenvolvimento web, cyber segurança.</p>
+<p align="left">Me chamo Gustavo tenho 17 anos,estudante da escola do futuro paulo renato souza, estou cursando o terceiro ano do ensino medio, sou também atleta de jiu-jitsu e capoeira,  estudo linguagens de progamação, já fiz projetos, como por exemplo, TCC, Midia indoor entre outros demais sites, hoje estudo desenvolvimento web e cyber segurança.</p>
 
 ###
 
